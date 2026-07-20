@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/synthetic/audio/*.wav
+data/raw/
+checkpoints/*.pt
+logs/
+*.egg-info/
+.pytest_cache/
+wandb/
+.streamlit/
